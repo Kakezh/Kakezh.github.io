@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://Kakezh.github.io/</loc>
-    <lastmod>2026-04-18T15:14:27+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://Kakezh.github.io/post/hello-gridea-pro/</loc>
-    <lastmod>2026-04-18T14:37:02+08:00</lastmod>
+    <lastmod>2026-04-18T15:28:45+08:00</lastmod>
   </url>
   <url>
     <loc>https://Kakezh.github.io/post/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8/</loc>
@@ -16,39 +12,23 @@
     </image:image>
   </url>
   <url>
-    <loc>https://Kakezh.github.io/post/quick-start/</loc>
-    <lastmod>2026-04-18T14:37:02+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://Kakezh.github.io/post/why-we-write/</loc>
-    <lastmod>2026-04-18T14:37:02+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://Kakezh.github.io/post/indie-blog-is-not-dead/</loc>
-    <lastmod>2026-04-18T14:37:02+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://Kakezh.github.io/post/why-i-revived-gridea/</loc>
-    <lastmod>2026-04-18T14:37:02+08:00</lastmod>
-  </url>
-  <url>
     <loc>https://Kakezh.github.io/tags/</loc>
-    <lastmod>2026-04-18T15:14:27+08:00</lastmod>
+    <lastmod>2026-04-18T15:28:45+08:00</lastmod>
   </url>
   <url>
     <loc>https://Kakezh.github.io/tag/gridea/</loc>
-    <lastmod>2026-04-18T15:14:27+08:00</lastmod>
+    <lastmod>2026-04-18T15:28:45+08:00</lastmod>
   </url>
   <url>
     <loc>https://Kakezh.github.io/tag/gridea-pro/</loc>
-    <lastmod>2026-04-18T15:14:27+08:00</lastmod>
+    <lastmod>2026-04-18T15:28:45+08:00</lastmod>
   </url>
   <url>
     <loc>https://Kakezh.github.io/tag/getting-started/</loc>
-    <lastmod>2026-04-18T15:14:27+08:00</lastmod>
+    <lastmod>2026-04-18T15:28:45+08:00</lastmod>
   </url>
   <url>
     <loc>https://Kakezh.github.io/archives/</loc>
-    <lastmod>2026-04-18T15:14:27+08:00</lastmod>
+    <lastmod>2026-04-18T15:28:45+08:00</lastmod>
   </url>
 </urlset>
